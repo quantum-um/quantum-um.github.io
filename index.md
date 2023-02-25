@@ -19,26 +19,26 @@ Regarding seminars, the presentation slides will be available, as well as the re
 quantUM is composed by professors, PhD students and MSc students.
 
 * Professors:
-    * José Nuno Oliveira
-    * Luís Soares Barbosa
-    * Luís Paulo Santos
-    * Renato Neves
+    * [José Nuno Oliveira](/members/#josé-nuno-oliveira)
+    * [Luís Soares Barbosa](/members/#luís-soares-barbosa)
+    * [Luís Paulo Santos](/members/#luís-paulo-santos)
+    * [Renato Neves](/members/#renato-neves)
 * PhD:
-    * André Sequeira
-    * Mafalda Alves
-    * Henrique Faria
-    * Andrea D'Urbano
-    * Michael Oliveira
-    * Zeinab Rahmani
-    * Alexandra Alves
-    * Jaime Santos
-    * Manisha Jain
-    * Vitor Fernandes
-    * Ana Neri
-    * José Diogo Guimarães
+    * [André Sequeira](/members/#andré-sequeira)
+    * [Mafalda Alves](/members/#mafalda-alves)
+    * [Henrique Faria](/members/#henrique-faria)
+    * [Andrea D'Urbano](/members/#andrea-durbano)
+    * [Michael Oliveira](/members/#michael-oliveira)
+    * [Zeinab Rahmani](/members/#zeinab-rahmani)
+    * [Alexandra Alves](/members/#alexandra-alves)
+    * [Jaime Santos](/members/#jaime-santos)
+    * [Manisha Jain](/members/#manisha-jain)
+    * [Vitor Fernandes](/members/#vitor-fernandes)
+    * [Ana Neri](/members/#ana-neri)
+    * [José Diogo Guimarães](/members/#josé-diogo-guimarães)
 * MSc:
-    * Rodrigo Coelho
-    * Márcio Mano
-    * José Luís
-    * Inês Dias
-    * Leander Reascos
+    * [Rodrigo Coelho](/members/#rodrigo-coelho)
+    * [Márcio Mano](/members/#márcio-mano)
+    * [José Luís](/members/#josé-luís)
+    * [Inês Dias](/members/#inês-dias)
+    * [Leander Reascos](/members/#leander-reascos)

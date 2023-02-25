@@ -8,14 +8,14 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Luís Soares Barbosa
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Luís Paulo Santos
@@ -23,14 +23,14 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Renato Neves
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 ---
 
@@ -40,84 +40,90 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Mafalda Alves
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Henrique Faria
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Andrea D'Urbano
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Michael Oliveira
 
 **About me:**
+I am Michael de Oliveira, a Ph.D. student at the [International Iberian Nanotechnology
+Laboratory](https://inl.int/) and an [Edinburgh & Paris Quantum Virtual
+Lab](https://www.ediparquantum.com/) member. My research focuses on the temporal structure of
+quantum algorithms. Other topics of interest are quantum complexity theory and quantum secure-multi
+party computation. Generally, I am interested in the fundamental distinctions between quantum and
+classical computations/processes.
 
-**Topics of interest:**
+ 
 
 
 #### Zeinab Rahmani
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Alexandra Alves
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Jaime Santos
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Manisha Jain
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Vitor Fernandes
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Ana Neri
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### José Diogo Guimarães
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 ---
 
@@ -127,32 +133,32 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Márcio Mano
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### José Luís
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Inês Dias
 
 **About me:**
 
-**Topics of interest:**
+ 
 
 
 #### Leander Reascos
 
 **About me:**
 
-**Topics of interest:**
+ 
