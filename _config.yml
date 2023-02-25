@@ -1,0 +1,60 @@
+# Set theme
+remote_theme: daviddarnes/alembic@main
+
+# Files excluded from Jekyll builds
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+
+# Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "quantUM group" # Site name or title, also used in jekyll-seo-tag
+#logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "Quantum group of the University of Minho" # Site description and default description, also used in jekyll-seo-tag
+url: "https://vegf17.github.io/" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+
+
+# Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: News
+  url: /news/
+- title: Members
+  url: /members/
+- title: Seminars
+  url: /seminars/
+
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+
+# Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+
+# Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
