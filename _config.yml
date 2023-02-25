@@ -25,7 +25,7 @@ lang: en-GB # Set the site language
 title: "quantUM group" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Quantum group of the University of Minho" # Site description and default description, also used in jekyll-seo-tag
-url: "https://vegf17.github.io/" # Site url, also used in jekyll-seo-tag
+url: "https://quantum-um.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 
 

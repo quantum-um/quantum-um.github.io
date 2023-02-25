@@ -25,7 +25,7 @@ quantUM is composed by professors, PhD students and MSc students.
     * [Renato Neves](/members/#renato-neves)
 * PhD:
     * [André Sequeira](/members/#andré-sequeira)
-    * [Mafalda Alves](https://quantum-um.github.io/members/#mafalda-alves)
+    * [Mafalda Alves]({{ site.url }}/members/#mafalda-alves)
     * [Henrique Faria](/members/#henrique-faria)
     * [Andrea D'Urbano](/members/#andrea-durbano)
     * [Michael Oliveira](/members/#michael-oliveira)
