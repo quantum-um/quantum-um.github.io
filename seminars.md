@@ -26,13 +26,42 @@ Inês Dias and Vitor Fernandes
 [slides]
 
 **Title:**
-TBA
+Towards quantum concurrency (Part 1)
 
 **Abstract:**
-TBA
+In the classical setting, concurrency speeds up the execution of programs, which decreases their
+execution time [1].  Currently, quantum computers must handle fault-tolerant hardware [2]. This
+faulty-hardware is prone to noise, which affects the superposition time of qubits (the superposition
+time of qubits is in the order of a few milliseconds [3]).
+
+We then aim to bring the benefits of concurrency to the quantum setting. In order to study to what
+extent concurrency can help to mitigate noise in quantum programming, our goal is to define and
+implement the semantics of a concurrent quantum language, which will in turn allow to simulate
+quantum concurrent programs.  To do that, we based our work on a concurrent imperative language
+developed by Brookes [4].  In fact, our concurrent quantum language is an extension of said
+language, by adding basic quantum features to it.
+
+In this talk, we focus on the language developed by Brookes.  We present its syntax, operational and
+denotational semantics. Additionally, we discuss the use of Parsec [5], a package of Haskell, in
+order to build a parser for this language, and also the implementation of its operational semantics
+in Haskell. Furthermore, we briefly discuss the syntax and the operational semantics of the quantum
+concurrent language.
+
 
 **References:**
-TBA
+
+[1] Cantrill, Bryan, and Jeff Bonwick. "Real-world concurrency." Communications of the ACM 51.11 (2008): 34-39.
+
+[2] Nielsen, Michael A., and Isaac Chuang. "Quantum computation and quantum information." (2002): 558-559.
+
+[3] Zhang, Yu, et al. "Optimizing quantum programs against decoherence: delaying qubits into quantum superposition." 2019 International Symposium on Theoretical Aspects of Software Engineering (TASE). IEEE, 2019.
+
+[4] Stephen Brookes. Full abstraction for a shared-variable parallel language. Information
+and Computation, 127(2):145–163, 1996. URL: https://www.sciencedirect.com/science/
+article/pii/S0890540196900565, doi:https://doi.org/10.1006/inco.1996.0056.
+
+[5] Daan Leijen, Paolo Martini, and Antoine Latter. parsec: Monadic parser combinators, 2023. [[link](https://hackage.haskell.org/package/parsec)]
+
 
 ---
 
