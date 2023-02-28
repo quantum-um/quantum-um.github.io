@@ -41,10 +41,10 @@ quantum concurrent programs.  To do that, we based our work on a concurrent impe
 developed by Brookes [4].  In fact, our concurrent quantum language is an extension of said
 language, by adding basic quantum features to it.
 
-In this talk, we focus on the language developed by Brookes.  We present its syntax, operational and
-denotational semantics. Additionally, we discuss the use of Parsec [5], a package of Haskell, in
-order to build a parser for this language, and also the implementation of its operational semantics
-in Haskell. Furthermore, we briefly discuss the syntax and the operational semantics of the quantum
+In this talk, we focus on the language developed by Brookes.  We present its syntax and operational
+semantics. Additionally, we discuss the use of Parsec [5], a package of Haskell, in order to build a
+parser for this language, and also the implementation of its operational semantics in
+Haskell. Furthermore, we briefly discuss the syntax and the operational semantics of the quantum
 concurrent language.
 
 
