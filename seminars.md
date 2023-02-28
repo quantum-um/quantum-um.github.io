@@ -101,7 +101,7 @@ proofs over these concrete implementations instead of proofs over a theoretical 
 
 [4] Jasmin: High-Assurance and High-Speed Cryptography. José Bacelar Almeida, Manuel Barbosa, Gilles Barthe, Arthur Blot, Benjamin Grégoire, Vincent Laporte, Tiago Oliveira, Hugo Pacheco, Benedikt Schmidt, Pierre-Yves Strub. In: CCS’17.
 
-[5] https://github.com/EasyCrypt/easycrypt.
+[5] [[https://github.com/EasyCrypt/easycrypt](https://github.com/EasyCrypt/easycrypt)].
 
 ---
 
