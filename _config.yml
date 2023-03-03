@@ -39,7 +39,9 @@ navigation_header:
   url: /members/
 - title: Seminars
   url: /seminars/
-
+- title: Publications
+  url: /publications/
+  
 navigation_footer:
 - title: Back to top
   url: "#top"
