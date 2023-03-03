@@ -23,7 +23,7 @@ Valid until the end of the 2022/23 academic year
 
 **Speakers:**
 Inês Dias and Vitor Fernandes
-[slides]
+[[slides]({{ site.url }}/slides/tqc.pdf)]
 
 **Title:**
 Towards quantum concurrency (Part 1)
@@ -70,7 +70,7 @@ article/pii/S0890540196900565, doi:https://doi.org/10.1006/inco.1996.0056.
 
 **Speaker:**
 Henrique Faria
-[slides]
+[[slides]({{ site.url }}/slides/pqc-pt1.pdf)]
 
 **Title:**
 Multi-Party Computations: Providing a Post-Quantum Solution (Part 1)
