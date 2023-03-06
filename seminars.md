@@ -19,6 +19,36 @@ Valid until the end of the 2022/23 academic year
 ---
 
 **Date:**
+10 March 2023
+
+**Speakers:**
+José Diogo Guimarães
+
+**Title:**
+Noise-assisted digital quantum simulation of open systems
+
+**Abstract:**
+
+Quantum systems are inherently open and subject to environmental noise, which can have both
+detrimental and beneficial effects on their dynamics. In particular, noise has been observed to
+enable novel functionalities in bio-molecular systems, making the simulation of their dynamics an
+important target for digital and analog quantum simulation. However, current quantum devices are
+typically noisy, limiting their computational capabilities. In this work, we propose a novel
+approach that leverages the intrinsic noise of a quantum device to reduce the quantum computational
+resources required for simulating open quantum systems. We achieve this by combining quantum noise
+characterization methods with quantum error mitigation techniques, which allow us to transform and
+control the intrinsic noise in a quantum circuit. Specifically, we selectively enhance or reduce
+decoherence rates in the quantum circuit to achieve the desired simulation of open system
+dynamics. We describe our methods in detail and report on the results of noise characterization and
+quantum error mitigation on real and emulated IBM Quantum computers. We also provide estimates of
+the experimental resource requirements for our techniques. We believe that this approach can pave
+the way for new simulation techniques in Noisy Intermediate-Scale Quantum (NISQ) devices, where
+their intrinsic noise can be harnessed to assist quantum computations.
+
+
+---
+
+**Date:**
 3 March 2023
 
 **Speakers:**
