@@ -20,7 +20,7 @@
 <meta property="og:url" content="http://localhost:4000/seminars/" />
 <meta property="og:site_name" content="quantUM group" />
 <script type="application/ld+json">
-{"headline":"Seminars","@type":"WebPage","url":"http://localhost:4000/seminars/","description":"Quantum group of the University of Minho","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/seminars/","description":"Quantum group of the University of Minho","headline":"Seminars","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     
@@ -107,6 +107,13 @@
         <a href="/seminars/">Seminars</a>
       </li>
     
+
+      
+
+      <li class="item  item--nav">
+        <a href="/publications/">Publications</a>
+      </li>
+    
   </ul>
   <button class="button  button--nav" aria-label="Menu toggle">
     <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title><use xlink:href="#nav" fill="CurrentColor"></use></svg>
@@ -183,20 +190,75 @@
 <hr />
 
 <p><strong>Date:</strong>
+10 March 2023</p>
+
+<p><strong>Speakers:</strong>
+José Diogo Guimarães</p>
+
+<p><strong>Title:</strong>
+Noise-assisted digital quantum simulation of open systems</p>
+
+<p><strong>Abstract:</strong>
+Quantum systems are inherently open and subject to environmental noise, which can have both
+detrimental and beneficial effects on their dynamics. In particular, noise has been observed to
+enable novel functionalities in bio-molecular systems, making the simulation of their dynamics an
+important target for digital and analog quantum simulation. However, current quantum devices are
+typically noisy, limiting their computational capabilities. In this work, we propose a novel
+approach that leverages the intrinsic noise of a quantum device to reduce the quantum computational
+resources required for simulating open quantum systems. We achieve this by combining quantum noise
+characterization methods with quantum error mitigation techniques, which allow us to transform and
+control the intrinsic noise in a quantum circuit. Specifically, we selectively enhance or reduce
+decoherence rates in the quantum circuit to achieve the desired simulation of open system
+dynamics. We describe our methods in detail and report on the results of noise characterization and
+quantum error mitigation on real and emulated IBM Quantum computers. We also provide estimates of
+the experimental resource requirements for our techniques. We believe that this approach can pave
+the way for new simulation techniques in Noisy Intermediate-Scale Quantum (NISQ) devices, where
+their intrinsic noise can be harnessed to assist quantum computations.</p>
+
+<hr />
+
+<p><strong>Date:</strong>
 3 March 2023</p>
 
 <p><strong>Speakers:</strong>
 Inês Dias and Vitor Fernandes
-[slides]</p>
+[<a href="http://localhost:4000/slides/tqc.pdf">slides</a>]</p>
 
 <p><strong>Title:</strong>
-TBA</p>
+Towards quantum concurrency (Part 1)</p>
 
 <p><strong>Abstract:</strong>
-TBA</p>
+In the classical setting, concurrency speeds up the execution of programs, which decreases their
+execution time [1].  Currently, quantum computers must handle fault-tolerant hardware [2]. This
+faulty-hardware is prone to noise, which affects the superposition time of qubits (the superposition
+time of qubits is in the order of a few milliseconds [3]).</p>
 
-<p><strong>References:</strong>
-TBA</p>
+<p>We then aim to bring the benefits of concurrency to the quantum setting. In order to study to what
+extent concurrency can help to mitigate noise in quantum programming, our goal is to define and
+implement the semantics of a concurrent quantum language, which will in turn allow to simulate
+quantum concurrent programs.  To do that, we based our work on a concurrent imperative language
+developed by Brookes [4].  In fact, our concurrent quantum language is an extension of said
+language, by adding basic quantum features to it.</p>
+
+<p>In this talk, we focus on the language developed by Brookes.  We present its syntax and operational
+semantics. Additionally, we discuss the use of Parsec [5], a package of Haskell, in order to build a
+parser for this language, and also the implementation of its operational semantics in
+Haskell. Furthermore, we briefly discuss the syntax and the operational semantics of the quantum
+concurrent language.</p>
+
+<p><strong>References:</strong></p>
+
+<p>[1] Cantrill, Bryan, and Jeff Bonwick. “Real-world concurrency.” Communications of the ACM 51.11 (2008): 34-39.</p>
+
+<p>[2] Nielsen, Michael A., and Isaac Chuang. “Quantum computation and quantum information.” (2002): 558-559.</p>
+
+<p>[3] Zhang, Yu, et al. “Optimizing quantum programs against decoherence: delaying qubits into quantum superposition.” 2019 International Symposium on Theoretical Aspects of Software Engineering (TASE). IEEE, 2019.</p>
+
+<p>[4] Stephen Brookes. Full abstraction for a shared-variable parallel language. Information
+and Computation, 127(2):145–163, 1996. URL: https://www.sciencedirect.com/science/
+article/pii/S0890540196900565, doi:https://doi.org/10.1006/inco.1996.0056.</p>
+
+<p>[5] Daan Leijen, Paolo Martini, and Antoine Latter. parsec: Monadic parser combinators, 2023. [<a href="https://hackage.haskell.org/package/parsec">link</a>]</p>
 
 <hr />
 
@@ -205,7 +267,7 @@ TBA</p>
 
 <p><strong>Speaker:</strong>
 Henrique Faria
-[slides]</p>
+[<a href="http://localhost:4000/slides/pqc-pt1.pdf">slides</a>]</p>
 
 <p><strong>Title:</strong>
 Multi-Party Computations: Providing a Post-Quantum Solution (Part 1)</p>
@@ -236,7 +298,7 @@ proofs over these concrete implementations instead of proofs over a theoretical 
 
 <p>[4] Jasmin: High-Assurance and High-Speed Cryptography. José Bacelar Almeida, Manuel Barbosa, Gilles Barthe, Arthur Blot, Benjamin Grégoire, Vincent Laporte, Tiago Oliveira, Hugo Pacheco, Benedikt Schmidt, Pierre-Yves Strub. In: CCS’17.</p>
 
-<p>[5] https://github.com/EasyCrypt/easycrypt.</p>
+<p>[5] [<a href="https://github.com/EasyCrypt/easycrypt">https://github.com/EasyCrypt/easycrypt</a>].</p>
 
 <hr />
 

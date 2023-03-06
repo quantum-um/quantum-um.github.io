@@ -28,7 +28,6 @@ José Diogo Guimarães
 Noise-assisted digital quantum simulation of open systems
 
 **Abstract:**
-
 Quantum systems are inherently open and subject to environmental noise, which can have both
 detrimental and beneficial effects on their dynamics. In particular, noise has been observed to
 enable novel functionalities in bio-molecular systems, making the simulation of their dynamics an

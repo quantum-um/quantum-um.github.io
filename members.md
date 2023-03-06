@@ -43,15 +43,16 @@ feature_image: "https://picsum.photos/2560/600?image=873"
  
 
 
-#### Mafalda Alves [[personal site](https://mafaldaramoa.github.io/)]
+#### Mafalda Alves
+[[personal site](https://mafaldaramoa.github.io/)]
 
 **About me:**
-I have an MSc in Engineering Physics and I am a PhD student working in quantum computing since
-2022. I belong to the Quantum and Linear-Optical Computation (QLOC) research group at the
-International Iberian Nanotechnology Laboratory (INL) and I am affiliated with the High-Assurance
-Software Laboratory (HASLab). I am interested in NISQ-friendly algorithms for optimization and
+I have an MSc in Engineering Physics and I am a PhD student working in quantum computing since 2022.
+I belong to the Quantum and Linear-Optical Computation (QLOC) research group at the [International
+Iberian Nanotechnology Laboratory](https://inl.int/) and I am affiliated with the [High-Assurance
+Software Laboratory](https://www.inesctec.pt/en/centres/haslab). I am interested in NISQ-friendly algorithms for optimization and
 simulation, especially adaptive variational quantum algorithms.
- 
+
 
 
 #### Henrique Faria
