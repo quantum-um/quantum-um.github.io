@@ -127,7 +127,11 @@ classical computations/processes.
 #### José Diogo Guimarães
 
 **About me:**
-
+I am an international Phs.D. student at University of Minho, Portugal and Institute of Theoretical
+Physics of University of Ulm, Germany. My overall research field is quantum computation in the Noisy
+Intermediate-Scale Quantum (NISQ) era. More specifically, I am currently working on the development
+of methods for simulating open systems on NISQ devices, using quantum error mitigation and other
+suitable techniques to improve the accuracy of the simulations’ results.
  
 
 ---
