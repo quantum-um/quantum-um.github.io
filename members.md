@@ -22,7 +22,12 @@ feature_image: "https://picsum.photos/2560/600?image=873"
 
 
 **About me:**
-
+I am an Assistant Professor at the Department of Informatics, [Universidade do
+Minho](https://www.uminho.pt/PT). My research interests include Parallel Computing, Physically-based
+Global Illumination and, more recently, Quantum Computing. Within this later context I am interested
+on the development of algorithms that leverage the potential of near term NISQ
+systems. Additionally, I am interested on the simulation of quantum circuits, in particular, on
+leveraging highly efficient Monte Carlo simulations to speed up convergence rates.
  
 
 
@@ -99,7 +104,10 @@ classical computations/processes.
 #### Jaime Santos
 
 **About me:**
-
+I am a PhD student at the [University of Minho](https://www.uminho.pt/PT) and [INESC TEC](https://www.inesctec.pt/pt), with a research focus on quantum walks
+and their applications such as search and optimization problems, mostly through numerical
+analysis. I have a deep interest in the principles of quantum mechanics and how they can be utilized
+to solve complex problems and drive innovation in various fields.
  
 
 

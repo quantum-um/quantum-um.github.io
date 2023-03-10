@@ -7,16 +7,24 @@ feature_image: "images/prometeu.jpeg"
 #excerpt: ""
 ---
 
-quantUM is the merge of the word 'quantum' and the acronym 'UM' of the University of Minho.
-Furthermore it is also the name of the quantum group of the University of Minho.
+quantUM refers to the group of people conducting research on quantum computing at, or in connection
+with, [Universidade do Minho](https://www.uminho.pt/PT).
 
-This page aims to allow news regarding quantUM elements as well as to spread the occurrence of seminars.
+quantUM merges ‘quantum’ with the University’s acronym ‘UM’.
 
-Regarding seminars, the presentation slides will be available, as well as the record, when existent.
+quantUM is a relatively recent informal research group, bringing together academic staff and post
+graduate PhD and MsC students, from several departments.
+
+quantUM main interests are related to the development of Quantum Software Engineering as a
+discipline for the specification, analysis, design, optimization and verification of quantum
+algorithms and software systems.
+
+quantUM maintains very strong connections with [INESC TEC](https://www.inesctec.pt/pt) and [INL](https://inl.int/).
+
 
 ## quantUM members
 
-quantUM is composed by professors, PhD students and MSc students.
+[//]: <> quantUM is composed by professors, PhD students and MSc students.
 
 * Professors:
     * [José Nuno Oliveira]({{ site.url }}/members/#josé-nuno-oliveira)
