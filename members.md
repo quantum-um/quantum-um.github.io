@@ -102,6 +102,7 @@ classical computations/processes.
 
 
 #### Jaime Santos
+[[GitHub]](https://github.com/JaimePSantos)
 
 **About me:**
 I am a PhD student at the [University of Minho](https://www.uminho.pt/PT) and [INESC TEC](https://www.inesctec.pt/pt), with a research focus on quantum walks
