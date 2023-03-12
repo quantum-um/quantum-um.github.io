@@ -23,6 +23,7 @@ Valid until the end of the 2022/23 academic year
 
 **Speakers:**
 José Diogo Guimarães
+[[slides]({{ site.url }}/slides/presentation_technique_INL_noise-assisted.pdf)]
 
 **Title:**
 Noise-assisted digital quantum simulation of open systems

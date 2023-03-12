@@ -55,8 +55,8 @@ leveraging highly efficient Monte Carlo simulations to speed up convergence rate
 I have an MSc in Engineering Physics and I am a PhD student working in quantum computing since 2022.
 I belong to the Quantum and Linear-Optical Computation (QLOC) research group at the [International
 Iberian Nanotechnology Laboratory](https://inl.int/) and I am affiliated with the [High-Assurance
-Software Laboratory](https://www.inesctec.pt/en/centres/haslab). I am interested in NISQ-friendly algorithms for optimization and
-simulation, especially adaptive variational quantum algorithms.
+Software Laboratory](https://www.inesctec.pt/en/centres/haslab). I am interested in NISQ-friendly
+algorithms for optimization and simulation, especially adaptive variational quantum algorithms.
 
 
 
@@ -75,6 +75,7 @@ simulation, especially adaptive variational quantum algorithms.
 
 
 #### Michael Oliveira
+[[personal site]](https://michaeldoliveira.wordpress.com/)
 
 **About me:**
 I am Michael de Oliveira, a Ph.D. student at the [International Iberian Nanotechnology
@@ -90,7 +91,12 @@ classical computations/processes.
 #### Zeinab Rahmani
 
 **About me:**
-
+I have a Master degree in Quantum Physics and I am currently persuing my Ph.D. in Electrical
+Engineering at the [University of Aveiro](https://www.ua.pt/). I am also affiliated with the
+[International Iberian Nanotechnology Laboratory](https://inl.int/). My research focuses on Quantum
+Cryptography, Quantum Secure Multiparty Computation and Measurement-Based Quantum Computing. I am
+passionate about contributing to the advancement of Quantum Computing, and I am always looking for
+ways to share my knowledge and experience with others.
  
 
 
@@ -105,10 +111,11 @@ classical computations/processes.
 [[GitHub]](https://github.com/JaimePSantos)
 
 **About me:**
-I am a PhD student at the [University of Minho](https://www.uminho.pt/PT) and [INESC TEC](https://www.inesctec.pt/pt), with a research focus on quantum walks
-and their applications such as search and optimization problems, mostly through numerical
-analysis. I have a deep interest in the principles of quantum mechanics and how they can be utilized
-to solve complex problems and drive innovation in various fields.
+I am a PhD student at the [University of Minho](https://www.uminho.pt/PT) and [INESC
+TEC](https://www.inesctec.pt/pt), with a research focus on quantum walks and their applications such
+as search and optimization problems, mostly through numerical analysis. I have a deep interest in
+the principles of quantum mechanics and how they can be utilized to solve complex problems and drive
+innovation in various fields.
  
 
 
@@ -122,6 +129,11 @@ to solve complex problems and drive innovation in various fields.
 #### Vitor Fernandes
 
 **About me:**
+I am a PhD student at the [University of Minho](https://www.uminho.pt/PT) and [INESC
+TEC](https://www.inesctec.pt/pt).  My research focuses on syntax and semantics for concurrent
+quantum programming languages.  I am interested in knowing how topological quantum computers can be
+built and how quantum music is made.
+
 
  
 
@@ -136,11 +148,13 @@ to solve complex problems and drive innovation in various fields.
 #### José Diogo Guimarães
 
 **About me:**
-I am an international Phs.D. student at University of Minho, Portugal and Institute of Theoretical
-Physics of University of Ulm, Germany. My overall research field is quantum computation in the Noisy
-Intermediate-Scale Quantum (NISQ) era. More specifically, I am currently working on the development
-of methods for simulating open systems on NISQ devices, using quantum error mitigation and other
-suitable techniques to improve the accuracy of the simulations’ results.
+I am an international PhD. student at [University of Minho](https://www.uminho.pt/PT), Portugal
+and [Institute of Theoretical Physics of University of
+Ulm](https://www.uni-ulm.de/en/nawi/institut-fuer-theoretische-physik-start-page/), Germany. My
+overall research field is quantum computation in the Noisy Intermediate-Scale Quantum (NISQ)
+era. More specifically, I am currently working on the development of methods for simulating open
+systems on NISQ devices, using quantum error mitigation and other suitable techniques to improve the
+accuracy of the simulations’ results.
  
 
 ---
