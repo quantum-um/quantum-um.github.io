@@ -197,7 +197,12 @@ ever-changing environments.
 #### Inês Dias
 
 **About me:**
-
+I am an MSc student of Physics Engineering, specializing in Physics of Information, at
+[University of Minho](https://www.uminho.pt/PT). Currently, I am developing a dissertation
+entitled "An Interpreter for a Concurrent Quantum Language", whose goal is to implement in
+[Haskell](https://www.haskell.org/) the semantics of a concurrent quantum language, which will
+allow to study to what extent concurrency can help to mitigate noise in quantum programming. I am
+also affiliated with [INESC TEC](https://www.inesctec.pt/pt).
  
 
 
