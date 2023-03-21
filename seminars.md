@@ -40,10 +40,15 @@ gradients [5] are discussed using the quantum fisher information [6].
 
 **References:**
 [1] - Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret - H.Zhong et.al 2023
+
 [2] - Quantum policy gradient algorithms - S.Jerbi et.al 2022
+
 [3] - Policy gradients using variational quantum circuits - A.Sequeira et.al 2022
+
 [4] - Parameterized quantum policies for reinforcement learning - S.Jerbi et.al
+
 [5] - On the theory of policy gradients - optimality, approximation and distribution shift - A.Agarwal et.al 2020
+
 [6] - Fisher information in noisy intermediate-scale quantum applications - J.Meyer 2021
 
 ---
