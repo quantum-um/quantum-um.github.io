@@ -19,6 +19,36 @@ Valid until the end of the 2022/23 academic year
 ---
 
 **Date:**
+24 March 2023
+
+**Speakers:**
+André Sequeira
+
+**Title:**
+Quantum Reinforcement Learning
+
+**Abstract:**
+In the context of Quantum Reinforcement Learning (QRL), provably efficient exploration [1] and a
+quadratic separation in gradient estimation were recently established for QRL models with oracle
+access to environment dynamics [2]. However, once oracle access is removed, even though
+Parameterized Quantum Circuits (PQCs) are being used as versatile QRL models, only empirical
+advantage relative to a contrived set of classical models was established thus far [3,4]. This work
+introduces quantum policy gradients using PQCs and presents the quantum-enhanced natural policy
+gradient algorithm. Numerical results are reported, showcasing an improved performance in a series
+of classical control benchmarking environments. In addition, regret improvements for natural policy
+gradients [5] are discussed using the quantum fisher information [6].
+
+**References:**
+[1] - Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret - H.Zhong et.al 2023
+[2] - Quantum policy gradient algorithms - S.Jerbi et.al 2022
+[3] - Policy gradients using variational quantum circuits - A.Sequeira et.al 2022
+[4] - Parameterized quantum policies for reinforcement learning - S.Jerbi et.al
+[5] - On the theory of policy gradients - optimality, approximation and distribution shift - A.Agarwal et.al 2020
+[6] - Fisher information in noisy intermediate-scale quantum applications - J.Meyer 2021
+
+---
+
+**Date:**
 10 March 2023
 
 **Speakers:**

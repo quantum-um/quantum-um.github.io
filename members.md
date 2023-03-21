@@ -44,9 +44,12 @@ leveraging highly efficient Monte Carlo simulations to speed up convergence rate
 #### André Sequeira
 
 **About me:**
-I am PhD student working in Quantum Computing at the University of Minho. I belong to the [High-Assurance
-Software Laboratory (HASLab)](https://www.inesctec.pt/en/centres/haslab) and Quantum and Quantum Linear-Optical Computation (QLOC) research group at the [International
-Iberian Nanotechnology Laboratory (INL)](https://inl.int/) . My research focuses on Quantum machine learning and NISQ algorithms. Specifically I am interested in the foundations and applications of quantum reinforcement learning. 
+I am PhD student working in Quantum Computing at the University of Minho. I belong to the
+[High-Assurance Software Laboratory (HASLab)](https://www.inesctec.pt/en/centres/haslab) and Quantum
+and Quantum Linear-Optical Computation (QLOC) research group at the [International Iberian
+Nanotechnology Laboratory (INL)](https://inl.int/) . My research focuses on Quantum machine learning
+and NISQ algorithms. Specifically I am interested in the foundations and applications of quantum
+reinforcement learning.
  
 
 
