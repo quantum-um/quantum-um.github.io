@@ -19,6 +19,51 @@ Valid until the end of the 2022/23 academic year
 ---
 
 **Date:**
+31 March 2023
+
+**Speakers:**
+Leander Reascos
+
+**Title:**
+Quantum simulation of spin systems on quantum computers
+
+**Abstract:**
+Quantum computing has shown great promise in simulating quantum systems [1, 2]. Therefore, this
+project focuses on simulating and studying the properties of spin systems, specifically their
+chirality. These systems have multiple applications in various fields, including skyrmions,
+spintronics, and high-temperature superconductors [3]. The aim is to measure scalar spin chirality
+non-destructively using various algorithms based on different techniques, such as the Hadamard test,
+Linear combination of unitaries (LCU) [4], and quantum phase estimation. These algorithms use
+indirect measurement to avoid disrupting the state and measure expectation values or eigenvalues
+[5].
+
+**References:**
+[1] S. Lloyd, “Universal quantum simulators,” vol. 273,
+no. 5278, pp. 1073–1078, 1996. [Online]. Available:
+https://www.science.org/doi/10.1126/science.273.5278.1073
+
+[2] A. J. Daley, I. Bloch, C. Kokail, S. Flannigan, N. Pearson, M. Troyer, and
+P. Zoller, “Practical quantum advantage in quantum simulation,” vol. 607,
+no. 7920, pp. 667–676, 2022, number: 7920 Publisher: Nature Publishing
+Group. [Online]. Available: https://www.nature.com/articles/s41586-022-
+04940-6
+
+[3] X. G. Wen, F. Wilczek, and A. Zee, “Chiral spin states and
+superconductivity,” vol. 39, no. 16, pp. 11 413–11 423, 1989. [Online].
+Available: https://link.aps.org/doi/10.1103/PhysRevB.39.11413
+
+[4] A. M. Childs and N. Wiebe, “Hamiltonian simulation using linear combina-
+tions of unitary operations,” arXiv preprint arXiv:1202.5822, 2012.
+
+[5] K. Mitarai and K. Fujii, “Methodology for replacing indirect measurements
+with direct measurements,” Physical Review Research, vol. 1, no. 1, p.
+013006, 2019.
+
+
+
+---
+
+**Date:**
 24 March 2023
 
 **Speakers:**
