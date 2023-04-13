@@ -19,9 +19,39 @@ Valid until the end of the 2022/23 academic year
 ---
 
 **Date:**
+14 April 2023
+
+**Speaker:**
+Ioannis Kolotouros (University of Edinburgh)
+
+**Title:**
+Adiabatic quantum computing with parameterized quantum circuits
+
+**Abstract:**
+Adiabatic quantum computing is a universal model for quantum computing. Standard error correction
+methods require overhead that makes their application prohibitive for near-term devices. To mitigate
+the limitations of near-term devices, a number of hybrid approaches have been pursued in which a
+parameterized quantum circuit prepares and measures quantum states and a classical optimization
+algorithm minimizes an objective function that encompasses the solution to the problem of
+interest. In this work, we propose a different approach starting by analyzing how a small
+perturbation of a Hamiltonian affects the parameters that minimize the energy within a family of
+parameterized quantum states. We derive a set of equations that allow us to compute the new minimum
+by solving a constrained linear system of equations obtained by measuring a series of observables on
+the unperturbed system. We then propose a discrete version of adiabatic quantum computing which can
+be implemented with NISQ devices while at the same time is insensitive to the initialization of the
+parameters and to other limitations hindered in the optimization part of variational quantum
+algorithms. We also derive a lower bound on the number of discrete steps needed to guarantee
+success. We compare our proposed algorithm with the Variational Quantum Eigensolver on two classical
+optimization problems, namely MaxCut and Number Partitioning, and on a quantum spin-configuration
+problem, the Transverse-Field Ising Chain model, and confirm that our approach demonstrates superior
+performance.
+
+---
+
+**Date:**
 31 March 2023
 
-**Speakers:**
+**Speaker:**
 Leander Reascos
 
 **Title:**
@@ -66,7 +96,7 @@ with direct measurements,” Physical Review Research, vol. 1, no. 1, p.
 **Date:**
 24 March 2023
 
-**Speakers:**
+**Speaker:**
 André Sequeira
 
 **Title:**
@@ -101,7 +131,7 @@ gradients [5] are discussed using the quantum fisher information [6].
 **Date:**
 10 March 2023
 
-**Speakers:**
+**Speaker:**
 José Diogo Guimarães
 [[slides]({{ site.url }}/slides/presentation_technique_INL_noise-assisted.pdf)]
 
