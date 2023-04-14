@@ -190,9 +190,118 @@
 <hr />
 
 <p><strong>Date:</strong>
+14 April 2023</p>
+
+<p><strong>Speaker:</strong>
+Ioannis Kolotouros (University of Edinburgh)
+[<a href="http://localhost:4000/slides/AQC_PQC_Talk.pdf">slides</a>]</p>
+
+<p><strong>Title:</strong>
+Adiabatic quantum computing with parameterized quantum circuits</p>
+
+<p><strong>Abstract:</strong>
+Adiabatic quantum computing is a universal model for quantum computing. Standard error correction
+methods require overhead that makes their application prohibitive for near-term devices. To mitigate
+the limitations of near-term devices, a number of hybrid approaches have been pursued in which a
+parameterized quantum circuit prepares and measures quantum states and a classical optimization
+algorithm minimizes an objective function that encompasses the solution to the problem of
+interest. In this work, we propose a different approach starting by analyzing how a small
+perturbation of a Hamiltonian affects the parameters that minimize the energy within a family of
+parameterized quantum states. We derive a set of equations that allow us to compute the new minimum
+by solving a constrained linear system of equations obtained by measuring a series of observables on
+the unperturbed system. We then propose a discrete version of adiabatic quantum computing which can
+be implemented with NISQ devices while at the same time is insensitive to the initialization of the
+parameters and to other limitations hindered in the optimization part of variational quantum
+algorithms. We also derive a lower bound on the number of discrete steps needed to guarantee
+success. We compare our proposed algorithm with the Variational Quantum Eigensolver on two classical
+optimization problems, namely MaxCut and Number Partitioning, and on a quantum spin-configuration
+problem, the Transverse-Field Ising Chain model, and confirm that our approach demonstrates superior
+performance.</p>
+
+<hr />
+
+<p><strong>Date:</strong>
+31 March 2023</p>
+
+<p><strong>Speaker:</strong>
+Leander Reascos</p>
+
+<p><strong>Title:</strong>
+Quantum simulation of spin systems on quantum computers</p>
+
+<p><strong>Abstract:</strong>
+Quantum computing has shown great promise in simulating quantum systems [1, 2]. Therefore, this
+project focuses on simulating and studying the properties of spin systems, specifically their
+chirality. These systems have multiple applications in various fields, including skyrmions,
+spintronics, and high-temperature superconductors [3]. The aim is to measure scalar spin chirality
+non-destructively using various algorithms based on different techniques, such as the Hadamard test,
+Linear combination of unitaries (LCU) [4], and quantum phase estimation. These algorithms use
+indirect measurement to avoid disrupting the state and measure expectation values or eigenvalues
+[5].</p>
+
+<p><strong>References:</strong>
+[1] S. Lloyd, “Universal quantum simulators,” vol. 273,
+no. 5278, pp. 1073–1078, 1996. [Online]. Available:
+https://www.science.org/doi/10.1126/science.273.5278.1073</p>
+
+<p>[2] A. J. Daley, I. Bloch, C. Kokail, S. Flannigan, N. Pearson, M. Troyer, and
+P. Zoller, “Practical quantum advantage in quantum simulation,” vol. 607,
+no. 7920, pp. 667–676, 2022, number: 7920 Publisher: Nature Publishing
+Group. [Online]. Available: https://www.nature.com/articles/s41586-022-
+04940-6</p>
+
+<p>[3] X. G. Wen, F. Wilczek, and A. Zee, “Chiral spin states and
+superconductivity,” vol. 39, no. 16, pp. 11 413–11 423, 1989. [Online].
+Available: https://link.aps.org/doi/10.1103/PhysRevB.39.11413</p>
+
+<p>[4] A. M. Childs and N. Wiebe, “Hamiltonian simulation using linear combina-
+tions of unitary operations,” arXiv preprint arXiv:1202.5822, 2012.</p>
+
+<p>[5] K. Mitarai and K. Fujii, “Methodology for replacing indirect measurements
+with direct measurements,” Physical Review Research, vol. 1, no. 1, p.
+013006, 2019.</p>
+
+<hr />
+
+<p><strong>Date:</strong>
+24 March 2023</p>
+
+<p><strong>Speaker:</strong>
+André Sequeira</p>
+
+<p><strong>Title:</strong>
+Quantum Reinforcement Learning</p>
+
+<p><strong>Abstract:</strong>
+In the context of Quantum Reinforcement Learning (QRL), provably efficient exploration [1] and a
+quadratic separation in gradient estimation were recently established for QRL models with oracle
+access to environment dynamics [2]. However, once oracle access is removed, even though
+Parameterized Quantum Circuits (PQCs) are being used as versatile QRL models, only empirical
+advantage relative to a contrived set of classical models was established thus far [3,4]. This work
+introduces quantum policy gradients using PQCs and presents the quantum-enhanced natural policy
+gradient algorithm. Numerical results are reported, showcasing an improved performance in a series
+of classical control benchmarking environments. In addition, regret improvements for natural policy
+gradients [5] are discussed using the quantum fisher information [6].</p>
+
+<p><strong>References:</strong>
+[1] - Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret - H.Zhong et.al 2023</p>
+
+<p>[2] - Quantum policy gradient algorithms - S.Jerbi et.al 2022</p>
+
+<p>[3] - Policy gradients using variational quantum circuits - A.Sequeira et.al 2022</p>
+
+<p>[4] - Parameterized quantum policies for reinforcement learning - S.Jerbi et.al</p>
+
+<p>[5] - On the theory of policy gradients - optimality, approximation and distribution shift - A.Agarwal et.al 2020</p>
+
+<p>[6] - Fisher information in noisy intermediate-scale quantum applications - J.Meyer 2021</p>
+
+<hr />
+
+<p><strong>Date:</strong>
 10 March 2023</p>
 
-<p><strong>Speakers:</strong>
+<p><strong>Speaker:</strong>
 José Diogo Guimarães
 [<a href="http://localhost:4000/slides/presentation_technique_INL_noise-assisted.pdf">slides</a>]</p>
 

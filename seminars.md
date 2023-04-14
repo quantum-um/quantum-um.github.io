@@ -23,6 +23,7 @@ Valid until the end of the 2022/23 academic year
 
 **Speaker:**
 Ioannis Kolotouros (University of Edinburgh)
+[[slides]({{ site.url }}/slides/AQC_PQC_Talk.pdf)]
 
 **Title:**
 Adiabatic quantum computing with parameterized quantum circuits
@@ -53,6 +54,7 @@ performance.
 
 **Speaker:**
 Leander Reascos
+[[slides]({{ site.url }}/slides/leander.pdf)]
 
 **Title:**
 Quantum simulation of spin systems on quantum computers
