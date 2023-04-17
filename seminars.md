@@ -22,6 +22,48 @@ Valid until the end of the 2022/23 academic year
 14 April 2023
 
 **Speaker:**
+Rodrigo Coelho
+
+**Title:**
+The effect of Data Re-Uploading in Variational Q-Learning
+
+**Abstract:**
+A Reinforcement Learning (RL) agent learns by interacting with the surrounding environment in a
+feedback loop, with only a reward signal guiding its actions [1]. However, state-of-the-art RL
+algorithms are extremely data-hungry and often not efficiently learnable. Variational Quantum
+Circuits (VQCs) allow for implementations that require minimal quantum resources, making them
+suitable for near-term applications [2]. Recently, research has shown that VQCs can be used as
+function approximators in RL algorithms, reducing the total number of trainable parameters of
+parameterized models for some environments [3] [4]. Furthermore, by repeating simple data encoding
+gates multiple times, a technique named data re-uploading, these quantum models can access
+increasingly rich frequency spectra [5]. This project’s primary goal is to study the effect of data
+re-uploading in VQC’s applied to Q-Learning [6], a RL algorithm.
+
+**References:**
+
+[1] R. S. Sutton and A. G. Barto, Reinforcement learning: An introduction. MIT press, 2018.
+
+[2] M. Cerezo, A. Arrasmith, R. Babbush, S. C. Benjamin, S. Endo, K. Fujii, J. R. McClean, K. Mitarai,
+X. Yuan, L. Cincio et al., “Variational quantum algorithms,” Nature Reviews Physics, vol. 3, no. 9,
+pp. 625–644, 2021.
+
+[3] A. Skolik, S. Jerbi, and V. Dunjko, “Quantum agents in the gym: a variational quantum algorithm
+for deep q-learning,” Quantum, vol. 6, p. 720, 2022.
+
+[4] S. Y.-C. Chen, C.-H. H. Yang, J. Qi, P.-Y. Chen, X. Ma, and H.-S. Goan, “Variational quantum
+circuits for deep reinforcement learning,” IEEE Access, vol. 8, pp. 141 007–141 024, 2020.
+
+[5] M. Schuld, R. Sweke, and J. J. Meyer, “Effect of data encoding on the expressive power of variational
+quantum-machine-learning models,” Physical Review A, vol. 103, no. 3, p. 032430, 2021.
+
+[6] C. J. Watkins and P. Dayan, “Q-learning,” Machine learning, vol. 8, pp. 279–292, 1992.
+
+---
+
+**Date:**
+14 April 2023
+
+**Speaker:**
 Ioannis Kolotouros (University of Edinburgh)
 [[slides]({{ site.url }}/slides/AQC_PQC_Talk.pdf)]
 
@@ -70,6 +112,7 @@ indirect measurement to avoid disrupting the state and measure expectation value
 [5].
 
 **References:**
+
 [1] S. Lloyd, “Universal quantum simulators,” vol. 273,
 no. 5278, pp. 1073–1078, 1996. [Online]. Available:
 https://www.science.org/doi/10.1126/science.273.5278.1073
@@ -116,6 +159,7 @@ of classical control benchmarking environments. In addition, regret improvements
 gradients [5] are discussed using the quantum fisher information [6].
 
 **References:**
+
 [1] - Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret - H.Zhong et.al 2023
 
 [2] - Quantum policy gradient algorithms - S.Jerbi et.al 2022
