@@ -17,6 +17,24 @@ Valid until the end of the 2022/23 academic year
 0.05 (Department of Informatics)
 
 ---
+**Date:**
+28 April 2023
+
+**Speaker:**
+Alexandra Alves
+
+**Title:**
+Noise Resilient Quantum Amplitude Estimation
+
+**Abstract:**
+Quantum amplitude estimation (QAE) is a key routine offering a quadratic quantum speed-up. Notable
+applications include numerical integration, machine learning, estimating expectation values of
+observables, and database searching. However, owing to experimental issues, present-day quantum
+devices struggle to realize this potential. Algorithm design plays a pivotal role in overcoming this
+issue. In this talk, I will present and discuss several QAE algorithms, with an emphasis on their
+susceptibility to noise.
+
+---
 
 **Date:**
 14 April 2023
