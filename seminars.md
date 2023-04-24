@@ -41,6 +41,7 @@ susceptibility to noise.
 
 **Speaker:**
 Rodrigo Coelho
+[[slides]({{ site.url }}/slides/Presentation_Quantum.pdf)]
 
 **Title:**
 The effect of Data Re-Uploading in Variational Q-Learning
