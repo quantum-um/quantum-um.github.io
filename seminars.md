@@ -22,6 +22,7 @@ Valid until the end of the 2022/23 academic year
 
 **Speaker:**
 Alexandra Alves
+[[slides]({{ site.url }}/slides/nrqae.pdf)]
 
 **Title:**
 Noise Resilient Quantum Amplitude Estimation
