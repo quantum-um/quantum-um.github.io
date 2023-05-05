@@ -18,6 +18,23 @@ Valid until the end of the 2022/23 academic year
 
 ---
 **Date:**
+19 May 2023
+
+**Speaker:**
+Mario Silva (Université de Lorraine)
+
+**Title:**
+A Programming Language Characterizing Quantum Polynomial Time
+
+**Abstract:**
+We introduce a first-order quantum programming language, named FOQ, whose terminating programs are
+reversible. We restrict FOQ to a strict and tractable subset, named PFOQ, of terminating programs
+with bounded width, that provides a first programming language-based characterization of the quantum
+complexity class FBQP. We finally present a tractable semantics-preserving algorithm compiling a
+PFOQ program to a quantum circuit of size polynomial in the number of input qubits.
+
+---
+**Date:**
 28 April 2023
 
 **Speaker:**
