@@ -24,7 +24,7 @@ Valid until the end of the 2022/23 academic year
 Mario Silva (Université de Lorraine)
 
 **Title:**
-A Programming Language Characterizing Quantum Polynomial Time
+[A Programming Language Characterizing Quantum Polynomial Time](https://link.springer.com/chapter/10.1007/978-3-031-30829-1_8)
 
 **Abstract:**
 We introduce a first-order quantum programming language, named FOQ, whose terminating programs are
