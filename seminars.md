@@ -18,6 +18,40 @@ Valid until the end of the 2022/23 academic year
 
 ---
 **Date:**
+26 May 2023
+
+**Speaker:**
+Tomás Carneiro
+
+**Title:**
+iQbricks: Integration of a fully-featured quantum language in the framework Qbricks
+
+**Abstract:**
+Quantum Computing has noticeably grown over the last two decades, making it a revolutionary field of
+investigation in the current era of technological research.  Such a growth has been leading to an
+increasing demand in research by several big enterprises such as IBM, Google and Microsoft, paving
+the way for a richer ecosystem and untold benefits among the Quantum Computing community.
+Verification is a crucial aspect of software development, as it ensures that a program performs as
+intended and reduces the risk of introducing errors. This is especially important in the field of
+Quantum Computing, where the complexity of programs is high and the behavior of quantum systems is
+often counterintuitive. Verification of quantum programs can help detect errors that may lead to
+incorrect results, which is of utmost importance when dealing with quantum algorithms and quantum
+simulations. As a result, having a formal verification framework for quantum programs can greatly
+benefit the development of reliable and accurate quantum software. Qbricks is a verification
+framework for building quantum programs, and corresponds to the framework on which this project has
+been integrated.  During the course of this thesis, iQbricks – an intuitive and user-friendly
+language to build and formally verify quantum programs – was developed, along with a framework to
+translate and generate verifiable Qbricks programs from iQbricks.  This project’s main achievements
+were: (1) the design and implementation of a high-level programming language for describing quantum
+circuits in an intuitive and user-friendly way and (2) the implementation of a translator, embedded
+in Qbricks’ framework, that converts iQbricks programs to Qbricks ones.  The developed framework was
+evaluated against two different quantum algorithms: the Quantum Fourier Transform and Grover’s
+algorithm.  This project was accompanied by an internship at the Commissariat à l’énergie atomique
+et aux énergies alternatives (CEA) - LSL, where this implementation was developed in direct
+involvement with Qbricks’ team of investigators.
+
+---
+**Date:**
 19 May 2023
 
 **Speaker:**
