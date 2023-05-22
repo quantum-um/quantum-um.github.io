@@ -56,6 +56,7 @@ involvement with Qbricks’ team of investigators.
 
 **Speaker:**
 Mario Silva (Université de Lorraine)
+[[slides]({{ site.url }}/slides/ApresentacaoINL.pdf)]
 
 **Title:**
 [A Programming Language Characterizing Quantum Polynomial Time](https://link.springer.com/chapter/10.1007/978-3-031-30829-1_8)
