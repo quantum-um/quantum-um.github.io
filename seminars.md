@@ -18,6 +18,46 @@ Valid until the end of the 2022/23 academic year
 
 ---
 **Date:**
+23 June 2023
+
+**Speaker:**
+André Sequeira
+
+**Title:**
+Barren Plateaus in Quantum Policy Gradients
+
+**Abstract:**
+Over the past few years, the use of Variational Quantum Algorithms (VQAs) in the context of
+Reinforcement Learning (RL) has been proposed by multiple studies. The effectiveness of VQAs has
+been empirically substantiated across numerous benchmark environments in both value-based [1-3] and
+policy-based [4,5] RL frameworks. Notably, Jerbi et.al [4] outlined a quadratic separation in the
+optimization process of a policy-based RL agent when employing Parametrized Quantum Circuits
+(PQC)-based policies instead of an entirely classical agent. In a separate study [6], the authors
+introduced quantum neural network designs with orthogonal and compound layers for policy and value
+functions for the problem of hedging that are devoid of Barren Plateaus (BPs). Nevertheless, a more
+comprehensive understanding of the impact of the BP phenomenon within RL is necessary, particularly
+in arbitrary PQC-based policies, as it might hinder any acceleration in the optimization
+process. Consequently, this study focuses on scrutinizing cost-function dependent BPs within the
+REINFORCE policy-based RL algorithm proposed by Williams [7], considering two families of PQC-based
+policies: Born and softmax policies.
+
+**References:**
+[1] - Chen et.al. Variational Quantum Circuits for Deep Reinforcement Learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9144562
+
+[2] - Skolik et.al. Robustness of quantum reinforcement learning under hardware errors - https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-023-00166-1
+
+[3] - Skolik et.al. Quantum agents in the Gym: a variational quantum algorithm for deep Q-learning - https://quantum-journal.org/papers/q-2022-05-24-720/
+
+[4] - Jerbi et.al. Parametrized Quantum Policies for Reinforcement Learning - https://proceedings.neurips.cc/paper/2021/file/eec96a7f788e88184c0e713456026f3f-Paper.pdf
+
+[5] -Sequeira et.al. Policy gradients using variational quantum circuits - https://link.springer.com/article/10.1007/s42484-023-00101-8
+
+[6] - Cherrat et.al. Quantum Deep Hedging - https://arxiv.org/abs/2303.16585
+
+[7] - Williams  Simple statistical gradient-following algorithms for connectionist reinforcement learning - https://link.springer.com/article/10.1007/BF00992696
+
+---
+**Date:**
 26 May 2023
 
 **Speaker:**
