@@ -24,7 +24,7 @@ Valid until the end of the 2022/23 academic year
 André Sequeira
 
 **Title:**
-Barren Plateaus in Quantum Policy Gradients [[slides]({{ site.url }}/slides/André\ Sequeira\ -\ BPs\ in\ QPGs\ -\ quantUM.pdf)]
+Barren Plateaus in Quantum Policy Gradients [[slides]({{ site.url }}/slides/andresequeira_BPs_in_QPGs_quantUM.pdf)]
 
 **Abstract:**
 Over the past few years, the use of Variational Quantum Algorithms (VQAs) in the context of
