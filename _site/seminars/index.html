@@ -20,7 +20,7 @@
 <meta property="og:url" content="http://localhost:4000/seminars/" />
 <meta property="og:site_name" content="quantUM group" />
 <script type="application/ld+json">
-{"headline":"Seminars","@type":"WebPage","url":"http://localhost:4000/seminars/","description":"Quantum group of the University of Minho","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/seminars/","description":"Quantum group of the University of Minho","headline":"Seminars","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     
@@ -114,6 +114,13 @@
         <a href="/publications/">Publications</a>
       </li>
     
+
+      
+
+      <li class="item  item--nav">
+        <a href="/pastmembers/">Past Members</a>
+      </li>
+    
   </ul>
   <button class="button  button--nav" aria-label="Menu toggle">
     <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title><use xlink:href="#nav" fill="CurrentColor"></use></svg>
@@ -189,10 +196,85 @@
 
 <hr />
 <p><strong>Date:</strong>
+23 June 2023</p>
+
+<p><strong>Speaker:</strong>
+André Sequeira</p>
+
+<p><strong>Title:</strong>
+Barren Plateaus in Quantum Policy Gradients [<a href="http://localhost:4000/slides/andresequeira_BPs_in_QPGs_quantUM.pdf">slides</a>]</p>
+
+<p><strong>Abstract:</strong>
+Over the past few years, the use of Variational Quantum Algorithms (VQAs) in the context of
+Reinforcement Learning (RL) has been proposed by multiple studies. The effectiveness of VQAs has
+been empirically substantiated across numerous benchmark environments in both value-based [1-3] and
+policy-based [4,5] RL frameworks. Notably, Jerbi et.al [4] outlined a quadratic separation in the
+optimization process of a policy-based RL agent when employing Parametrized Quantum Circuits
+(PQC)-based policies instead of an entirely classical agent. In a separate study [6], the authors
+introduced quantum neural network designs with orthogonal and compound layers for policy and value
+functions for the problem of hedging that are devoid of Barren Plateaus (BPs). Nevertheless, a more
+comprehensive understanding of the impact of the BP phenomenon within RL is necessary, particularly
+in arbitrary PQC-based policies, as it might hinder any acceleration in the optimization
+process. Consequently, this study focuses on scrutinizing cost-function dependent BPs within the
+REINFORCE policy-based RL algorithm proposed by Williams [7], considering two families of PQC-based
+policies: Born and softmax policies.</p>
+
+<p><strong>References:</strong>
+[1] - Chen et.al. Variational Quantum Circuits for Deep Reinforcement Learning - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9144562</p>
+
+<p>[2] - Skolik et.al. Robustness of quantum reinforcement learning under hardware errors - https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-023-00166-1</p>
+
+<p>[3] - Skolik et.al. Quantum agents in the Gym: a variational quantum algorithm for deep Q-learning - https://quantum-journal.org/papers/q-2022-05-24-720/</p>
+
+<p>[4] - Jerbi et.al. Parametrized Quantum Policies for Reinforcement Learning - https://proceedings.neurips.cc/paper/2021/file/eec96a7f788e88184c0e713456026f3f-Paper.pdf</p>
+
+<p>[5] -Sequeira et.al. Policy gradients using variational quantum circuits - https://link.springer.com/article/10.1007/s42484-023-00101-8</p>
+
+<p>[6] - Cherrat et.al. Quantum Deep Hedging - https://arxiv.org/abs/2303.16585</p>
+
+<p>[7] - Williams  Simple statistical gradient-following algorithms for connectionist reinforcement learning - https://link.springer.com/article/10.1007/BF00992696</p>
+
+<hr />
+<p><strong>Date:</strong>
+26 May 2023</p>
+
+<p><strong>Speaker:</strong>
+Tomás Carneiro</p>
+
+<p><strong>Title:</strong>
+iQbricks: Integration of a fully-featured quantum language in the framework Qbricks</p>
+
+<p><strong>Abstract:</strong>
+Quantum Computing has noticeably grown over the last two decades, making it a revolutionary field of
+investigation in the current era of technological research.  Such a growth has been leading to an
+increasing demand in research by several big enterprises such as IBM, Google and Microsoft, paving
+the way for a richer ecosystem and untold benefits among the Quantum Computing community.
+Verification is a crucial aspect of software development, as it ensures that a program performs as
+intended and reduces the risk of introducing errors. This is especially important in the field of
+Quantum Computing, where the complexity of programs is high and the behavior of quantum systems is
+often counterintuitive. Verification of quantum programs can help detect errors that may lead to
+incorrect results, which is of utmost importance when dealing with quantum algorithms and quantum
+simulations. As a result, having a formal verification framework for quantum programs can greatly
+benefit the development of reliable and accurate quantum software. Qbricks is a verification
+framework for building quantum programs, and corresponds to the framework on which this project has
+been integrated.  During the course of this thesis, iQbricks – an intuitive and user-friendly
+language to build and formally verify quantum programs – was developed, along with a framework to
+translate and generate verifiable Qbricks programs from iQbricks.  This project’s main achievements
+were: (1) the design and implementation of a high-level programming language for describing quantum
+circuits in an intuitive and user-friendly way and (2) the implementation of a translator, embedded
+in Qbricks’ framework, that converts iQbricks programs to Qbricks ones.  The developed framework was
+evaluated against two different quantum algorithms: the Quantum Fourier Transform and Grover’s
+algorithm.  This project was accompanied by an internship at the Commissariat à l’énergie atomique
+et aux énergies alternatives (CEA) - LSL, where this implementation was developed in direct
+involvement with Qbricks’ team of investigators.</p>
+
+<hr />
+<p><strong>Date:</strong>
 19 May 2023</p>
 
 <p><strong>Speaker:</strong>
-Mario Silva (Université de Lorraine)</p>
+Mario Silva (Université de Lorraine)
+[<a href="http://localhost:4000/slides/ApresentacaoINL.pdf">slides</a>]</p>
 
 <p><strong>Title:</strong>
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-30829-1_8">A Programming Language Characterizing Quantum Polynomial Time</a></p>
@@ -533,7 +615,7 @@ the most fundamental example of quantum multi-party computation: quantum secret 
 <footer class="footer">
   <div class="container">
     <div class="copyright  typeset">
-      <small class="small">&copy; quantUM group 2023</small>
+      <small class="small">&copy; quantUM group 2024</small>
     </div>
 
     

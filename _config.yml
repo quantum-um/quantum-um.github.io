@@ -41,6 +41,8 @@ navigation_header:
   url: /seminars/
 - title: Publications
   url: /publications/
+- title: Past Members
+  url: /pastmembers/  
   
 navigation_footer:
 - title: Back to top

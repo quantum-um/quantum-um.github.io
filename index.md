@@ -45,8 +45,5 @@ quantUM maintains very strong connections with [INESC TEC](https://www.inesctec.
     * [Ana Neri]({{ site.url }}/members/#ana-neri)
     * [José Diogo Guimarães]({{ site.url }}/members/#josé-diogo-guimarães)
 * MSc:
-    * [Rodrigo Coelho]({{ site.url }}/members/#rodrigo-coelho)
-    * [Márcio Mano]({{ site.url }}/members/#márcio-mano)
-    * [José Luís]({{ site.url }}/members/#josé-luís)
     * [Inês Dias]({{ site.url }}/members/#inês-dias)
-    * [Leander Reascos]({{ site.url }}/members/#leander-reascos)
+    * [Maria Gabriela Oliveira]({{ site.url }}/members/#maria-grabriela-oliveira)

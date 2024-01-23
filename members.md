@@ -32,8 +32,8 @@ leveraging highly efficient Monte Carlo simulations to speed up convergence rate
 
 
 #### Renato Neves
+[[personal site](https://alfa.di.uminho.pt/~nevrenato/)]
 
-**About me:**
 
  
 
@@ -174,31 +174,6 @@ accuracy of the simulations’ results.
 
 ## MSc:
 
-#### Rodrigo Coelho
-
-**About me:**
-I am a MsC student at the [University of Minho](https://www.uminho.pt/PT), and I am also affiliated
-with [INESC TEC](https://www.inesctec.pt/pt). My research interest is in the field of quantum
-reinforcement learning, with a specific focus on variational Q-learning. I aim to explore how
-variational quantum circuits can be used as function approximators in Q-learning algorithms to solve
-ever-changing environments.
- 
-
-
-#### Márcio Mano
-
-**About me:**
-
- 
-
-
-#### José Luís
-
-**About me:**
-
- 
-
-
 #### Inês Dias
 
 **About me:**
@@ -210,14 +185,15 @@ allow to study to what extent concurrency can help to mitigate noise in quantum 
 also affiliated with [INESC TEC](https://www.inesctec.pt/pt).
  
 
+##### Maria Gabriela Oliveira
 
-#### Leander Reascos
+**About me:** I am a Portuguese MSc student of Physics Engineering, specializing in information
+physics, at the [University of Minho](https://www.uminho.pt/PT), Braga, Portugal. I am also a
+research student at [LIP](https://www.lip.pt/) Minho, where I am currently developing my master's
+thesis entitled "Quantum computing applications to quantum chromodynamics". I have a general
+interest in quantum physics, quantum information, quantum computing, and their applications and I am
+curious about the theoretical foundations of particle physics, solid state physics, and probably
+anything else that could help to learn how the world is made and works. You can find more
+information about me on my [Git Hub](https://github.com/mgabijo/mgabijo), and feel free to contact
+me about new research and ideas.
 
-**About me:**
-I am an MSc student at the [University of Minho](https://www.uminho.pt/PT) working with the Theory of Quantum Nanostructures
-research group at the [International Iberian Nanotechnology Laboratory](https://inl.int/). My research is centered
-around using quantum computers to simulate and study quantum systems. I am interested in the
-theoretical aspects of physics such as quantum systems and high-energy physics. I find it
-fascinating to explore the potential of quantum computers in these fields. I'm eager to continue
-this work and plan to pursue a Ph.D. degree after completing my Master's program.
- 
