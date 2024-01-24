@@ -197,3 +197,19 @@ anything else that could help to learn how the world is made and works. You can 
 information about me on my [Git Hub](https://github.com/mgabijo/mgabijo), and feel free to contact
 me about new research and ideas.
 
+
+##### Vitória Sousa
+
+**About me:** I am a MSc student of Physics Engineering, specialising in Information Physics, at
+[University of Minho](https://www.uminho.pt/PT), Portugal. I am a member of the Quantum Linear
+Optical Computation (QLOC) research group at [International Iberian Nanotechnology Laboratory
+(INL)](https://inl.int/). Currently, I am working on my Master's Thesis, whose main aim is to
+develop a simulation of noisy quantum computation using a Feynman sum over paths approach.
+
+##### Bruna Salgado
+
+**About me:** I am an MSc student of Physics Engineering, specializing in Physics of Information, at
+[University of Minho](https://www.uminho.pt/PT). I am currently developing my master’s thesis
+entitled “A Metric Equational System for Quantum Computation”, whose goal is to provide a
+fully-fledged quantum programming language on which to study metric program equivalence in various
+scenarios such as in quantum algorithmics and quantum information theory.
